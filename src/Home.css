@@ -1,0 +1,48 @@
+.home-container {
+    max-width: 1000px;
+    max-height: 3500px;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid #ccc; /* Border color */
+    border-radius: 8px; /* Border radius for rounded corners */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Optional: Box shadow for a subtle effect */
+  }
+
+  .footer{
+    max-width: 1000px;
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    font-size: 15px;
+    color:white ;
+    background-color: blue;
+    text-align:center;  
+  }
+
+  .social-icons {
+    margin-top: 20px;
+  }
+  
+  .social-icons a {
+    margin-right: 10px;
+    text-decoration: none;
+    color: whitesmoke; /* Adjust the color as needed */
+  }
+
+  .button-register{
+    float: right;
+    background-color: blue;
+    color:white;
+    margin: 0 10px 0 0;
+  }
+  .button-login{
+    float: Right;
+    background-color: blue;
+    color:white;
+    margin-right: 10px;
+  }
+
+  .custom-link {
+    margin-right: 50px; /* Adjust the right margin as needed */
+    margin: 0 10px 0 0;
+  }

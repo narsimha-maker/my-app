@@ -1,0 +1,9 @@
+.pay-container{
+    max-width: 500px; 
+    max-height: 3500px;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid #ccc; /* Border color */
+    border-radius: 8px; /* Border radius for rounded corners */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Optional: Box shadow for a subtle effect */
+  }

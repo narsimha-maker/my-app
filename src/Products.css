@@ -1,0 +1,46 @@
+.products-container{
+    max-width: 1000px; 
+    max-height: 3500px;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid #ccc; /* Border color */
+    border-radius: 8px; /* Border radius for rounded corners */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Optional: Box shadow for a subtle effect */
+  }
+
+  .products-container1{
+    max-width: 300px; 
+    max-height: 3500px;
+    margin-left: -20px;
+    margin: auto;
+    padding: 40px;
+    border: 1px solid #ccc; /* Border color */
+    border-radius: 8px; /* Border radius for rounded corners */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Optional: Box shadow for a subtle effect */
+    
+  }
+
+  .products-container2{
+    max-width: 300px; 
+    max-height: 3500px;
+    margin: auto;
+    padding: 40px;
+    border: 1px solid #ccc; /* Border color */
+    border-radius: 8px; /* Border radius for rounded corners */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Optional: Box shadow for a subtle effect */
+    
+    
+  }
+
+  .back{
+    background-color:blue;
+    float:right;
+    color:white;
+    
+  }
+
+  .add{
+    float: right;
+  }
+
+  
