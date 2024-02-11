@@ -46,3 +46,24 @@
     margin-right: 50px; /* Adjust the right margin as needed */
     margin: 0 10px 0 0;
   }
+
+  .scroll-container {
+    width: 100%;
+    overflow: hidden;
+  }
+  
+  .scroll-text {
+    white-space: nowrap; /* Prevent text from wrapping */
+    animation: scroll-left 20s linear infinite; /* Adjust animation duration and timing function as needed */
+    text-decoration: solid;
+    color:red;
+  }
+  
+  @keyframes scroll-left {
+    0% {
+      transform: translateX(100%); /* Start offscreen to the right */
+    }
+    100% {
+      transform: translateX(-100%); /* Scroll to the left */
+    }
+  }

@@ -18,6 +18,12 @@ return(
    <span className="custom-link"><Link to="/icecreams"><b>Ice Creams</b></Link></span>
    <span className="custom-link"><Link to="/pay"><b>Pay Here</b></Link></span>
     </div>
+    <br></br>
+    <div className="scroll-container">
+      <div className="scroll-text">
+      ***Nainika’s Dairy Farm was established in the year 2023 by  Mrs Nainik Gujjula, with an aim to provide quality dairy products!!!
+      </div>
+    </div>
   
    <button className="button-register"><Link to="/register" className="button-register">Register</Link></button>
    
@@ -25,7 +31,9 @@ return(
    <br></br>
    <br></br>
 
+
    <p>
+    
    <p>
       <b>NAINIKA's</b> Dairy Farm is nestled in the heart of picturesque landscapes,
       where our commitment to sustainable farming practices and the well-being of our
